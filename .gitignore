@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Distribution / build
+.tox/
+.coverage
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# IDEs and Editors
+.vscode/
+.idea/
+
+# Environment variables
+.env
+.flaskenv
+
+# Database files (adjust as needed for your specific database)
+*.sqlite3
+*.db
+*.db-journal
+
+# Vim/Neovim temporary files
+*.swp
+*.swo
+*.swn
+*.bak
+*~
+*.tmp
+*.un~
+*.sve
+*.swap
+*.bkp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
